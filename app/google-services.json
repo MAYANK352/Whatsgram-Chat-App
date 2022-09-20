@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444711156995",
+    "project_id": "whatsgram-377f7",
+    "storage_bucket": "whatsgram-377f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444711156995:android:3f278fe2c861f6ff7b3d36",
+        "android_client_info": {
+          "package_name": "com.mayank.whatsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444711156995-h66gu7gub8vb5et680mlj83mor2si84k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5CAe802-tTZnWHdH_pEEGqcAloEihzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444711156995-h66gu7gub8vb5et680mlj83mor2si84k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
